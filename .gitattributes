@@ -1,0 +1,6 @@
+*.csv,[[:space:]].data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+age_gender.csv filter=lfs diff=lfs merge=lfs -text
+age_gender.csv,[[:space:]]Image[[:space:]]Classifier filter=lfs diff=lfs merge=lfs -text
+age_gender.csv,[[:space:]]variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+age_gender.csv,[[:space:]]Image[[:space:]]Classifier/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+Image[[:space:]]Classifier/variables/variables.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
